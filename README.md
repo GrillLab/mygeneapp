@@ -1,3 +1,14 @@
+# Project Name (Lab Maintained Fork)
+
+> 🔄 Forked from [@Jamezquita1/mygeneapp][(https://github.com/Jamezquita1/mygeneapp.git)]
+
+This repository is maintained by the Grill Lab. It is based on code originally developed by Jonathan Amezquita, and adapted here for use in our lab workflows.
+
+### Original Version
+The original project is maintained independently by the author and can be found here:  
+➡️ https://github.com/Jamezquita1/mygeneapp.git
+
+
 # mygeneapp
 
 A Python tool for querying and organizing gene-related data from WormBase. This app retrieves gene descriptions, protein homology (BLASTp), phenotypes, and strain information, then compiles the results into a structured Excel workbook.
